@@ -1,5 +1,3 @@
-# Bogushev V.V.
-
 class Vehicle:
     _COLOR_VARIANTS = ['blue', 'red', 'green', 'black', 'white']
     owner = ''
